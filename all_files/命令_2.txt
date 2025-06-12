@@ -1,0 +1,33 @@
+开启：
+net start MongoDB
+关闭：
+net stop MongoDB
+查看：
+http://localhost:27017/
+7bbae1481a9be7cce4ee5a74c1ce643f
+启动server后端服务：端口号4000
+node server/server.js
+
+商家管理系统：
+后端端口号：5002
+启动：cd D:\xyx\admin_panel\server
+npm start
+前端为：5173
+启动：cd D:\xyx\admin_panel
+npm run dev
+
+
+初始化管理员账号：node d:\xyx\server\scripts\initAdmin.js
+账号密码为：admin、123456
+
+三和街道惠澳大道东侧古岭地段富信智能制造项目（一期）厂房4-9楼
+
+1938222361@qq.com
+13088882675
+174174663@qq.com
+
+
+2542134550
+4EB21mxzySAd7DAY
+
+mongodb://atlas-sql-6839042765c27365c8563e0e-x77ecp.a.query.mongodb.net/sample_mflix?ssl=true&authSource=admin
